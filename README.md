@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vikasjatingusain
-- 👀 I’m interested in PHP, Laravel, WordPress, MERN
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in React, JS, PHP, Laravel, WordPress
 - 📫 How to reach me sauravdev2@gmail.com
 
 <!---
