@@ -9,17 +9,17 @@
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
-- 👨‍💻 All of my projects are available at [N/A](N/A)
+- 👨‍💻 All of my projects are available at [N/A]
 
-- 📝 I regularly write articles on [N/A](N/A)
+- 📝 I regularly write articles on [N/A]
 
 - 💬 Ask me about **React.js, Next.js, Python, Laravel, WordPress**
 
 - 📫 How to reach me **sauravdev2@gmail.com**
 
-- 📄 Know about my experiences [N/A](N/A)
+- 📄 Know about my experiences [N/A]
 
-- ⚡ Fun fact **I am an introvert**
+- ⚡ Fun fact **I am a nature addict kinda guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
